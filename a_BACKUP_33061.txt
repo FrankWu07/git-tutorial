@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+this is b.txt
+update2333
+
+=======
+this is c.txt
+update666
+>>>>>>> f1
